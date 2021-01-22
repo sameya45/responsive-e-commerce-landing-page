@@ -1,0 +1,89 @@
+
+.section-bg{
+    background-color:rgba(243, 240, 239, 0.877); 
+    padding-bottom: 100px;
+}
+
+.header-logo img{
+ width:240px;
+
+}
+.menu-link{
+    margin-right:20px;
+    font-weight: 600;
+    color: black;
+    
+}
+
+.header1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    color:rgb(31, 31, 143);
+    letter-spacing: -2px;
+    
+}
+.header2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    color:tomato; 
+    letter-spacing: -3px;
+      
+}
+.link-button{
+    text-decoration: none;
+    background-color: blue;
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.icon{
+    width: 30px;
+}
+
+h1 {font-weight: bold;letter-spacing:-1px;color:rgb(31, 31, 143);}
+.shoe-card{
+    border: 0;
+    border-radius: 20px;
+}
+.shoe-card-footer{
+    background-color: white;
+    border-radius: 20px;
+
+}
+.footer-price{
+    color: orange;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: -5px;
+
+}
+
+.image-top{
+    margin:10px;
+    border-radius: 10px;
+}
+
+.image-align{
+    text-align:center;
+    margin-top: 16px;
+}
+.image-align img{
+
+    width: 90px; 
+    height:90px;
+}
+.text-top{
+    margin:20px;
+}
+.text-top h5 {
+    font-weight: bold;
+}
+.right-image{
+    width:740px; 
+    height:510px;
+    padding-left: 10px;
+}
+
